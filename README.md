@@ -3,7 +3,7 @@
 ## Français
 
 ### À propos
-`safe_rm.sh` est un script conçu pour remplacer la commande `rm` traditionnelle. Il vise à prévenir la suppression accidentelle de fichiers en les déplaçant dans un dossier nommé `~/corbeille`. Les fichiers dans ce dossier sont automatiquement supprimés après 30 jours. Si un fichier avec le même nom existe déjà dans la corbeille, un indice est ajouté au nom pour éviter les conflits.
+`safe_rm.sh` est un script conçu pour remplacer la commande `rm` traditionnelle. Il vise à prévenir la suppression accidentelle de fichiers en les déplaçant dans un dossier nommé `~/CORBEILLE_RM`. Les fichiers dans ce dossier sont automatiquement supprimés après 30 jours. Si un fichier avec le même nom existe déjà dans la corbeille, un indice est ajouté au nom pour éviter les conflits.
 
 ### Configuration
 Pour utiliser ce script :
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ## English
 
 ### About
-`safe_rm.sh` is a script designed to replace the traditional `rm` command. It aims to prevent accidental file deletion by moving files to a `~/corbeille` folder. Files in this folder are automatically deleted after 30 days. If a file with the same name already exists in the trash, an index is added to the name to avoid conflicts.
+`safe_rm.sh` is a script designed to replace the traditional `rm` command. It aims to prevent accidental file deletion by moving files to a `~/CORBEILLE_RM` folder. Files in this folder are automatically deleted after 30 days. If a file with the same name already exists in the trash, an index is added to the name to avoid conflicts.
 
 ### Setup
 To use this script:
