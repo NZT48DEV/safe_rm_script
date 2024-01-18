@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the trash directory path and the maximum age for files to be kept
-CORBEILLE=~/CORBEILLE_RM
+CORBEILLE=~/TRASH_RM
 AGE_MAX=30
 
 # Create the trash directory if it does not exist
